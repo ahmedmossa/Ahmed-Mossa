@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed Mossa, a back-end and Data Analyst freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">I'm Ahmed Mossa, a back-end and Data Analyst developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/ahmedmossa)  
