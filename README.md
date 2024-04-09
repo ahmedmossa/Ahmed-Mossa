@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Ahmed Mossa </h1>
 
 ###
 
-<p align="left">My name is Ahmed Mossa and I'm a Junior Data Analytic Developer | Python Back-End Developer, from Egypt</p>
+<p align="center"> I'm a Junior Data Analytic Developer | Python Back-End Developer, from Egypt</p>
 
 ###
 
