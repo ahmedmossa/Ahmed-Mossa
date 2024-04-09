@@ -1,16 +1,51 @@
-### Hi there 👋, My name is Ahmed Mossa
-#### Data Analyst Developer | Python Back-End Developer
-I am Ahmed Mossa from Egypt, and I work as a Back End Developer and Data Analytic.
-I really enjoy learning languages and frameworks like Python | R , as well as work in Data analytic.
+<br clear="both">
 
-Skills: Python / PostgreSQL 
+<img align="right" height="200" src="https://github.com/ahmedmossa/Ahmed-Mossa/blob/main/IMG_4298.JPG"  />
 
-- 🌱 I’m currently learning Data Science
-- 💬 Ask me about Python | SQL  
-- 📫 How to reach me: eng.amossa@gmail.com
-- 📄 Know about my experiences https://drive.google.com/file/d/1WXbbjz5TvwBZp2eE839QIb0-artahGb7/view?usp=drive_link
-- ⚡ Fun fact: I love drawing and play chess 
+###
 
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedmossa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eng-ahmed-mossa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100010171208951)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/a.mossa1983/)  
+###
 
+<p align="left">My name is Ahmed Mossa and I'm a Junior Data Analytic Developer | Python Back-End Developer, from Egypt</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Data Science<br>🎯 Goals: earn in dollar / live in cold place and speak English fluently.<br>🎲 Fun fact: I love drawing and play chess</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
