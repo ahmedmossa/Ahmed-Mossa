@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"> I'm a Junior Data Analytic Developer | Python Back-End Developer, from Egypt</p>
+<h2 align="center"> I'm a Junior Data Analytic Developer | Python Back-End Developer, from Egypt</p>
 
 ###
 
@@ -11,6 +11,12 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Data Science<br>🎯 Goals: earn in dollar / live in cold place and speak English fluently.<br>🎲 Fun fact: I love drawing and play chess</p>
+
+###
+
+<h2 align="left">Contact with me</h2>
+
+###
 
 ###
 
