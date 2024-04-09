@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed Mossa, a back-end and Data Analyst developer 👨‍💻 </div>  
+### <div align="center">I'm Ahmed Mossa, a back-end and Data Analyst developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/ahmedmossa)  
@@ -25,11 +25,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-
-### Frontend  
-<div align="center">  
-  
-</div>
 
 </td><td valign="top" width="33%">
 
