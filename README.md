@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Ahmed Mossa
 #### Data Analyst Developer
-![Data Analyst Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am Ahmed Mossa from Egypt. 
 
 Skills: Python / PostgreSQL 
