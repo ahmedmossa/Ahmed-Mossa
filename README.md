@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ahmed Mossa
-#### Data Analyst Developer | Python Developer | Back-End Developer
+### Hi there 👋, My name is Ahmed Mossa
+#### Data Analyst Developer | Python Back-End Developer
 I am Ahmed Mossa from Egypt, and I work as a Back End Developer and Data Analytic.
 I really enjoy learning languages and frameworks like Python | R , as well as work in Data analytic.
 📄 Know about my experiences https://drive.google.com/file/d/1WXbbjz5TvwBZp2eE839QIb0-artahGb7/view?usp=drive_link
