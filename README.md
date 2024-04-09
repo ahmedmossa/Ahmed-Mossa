@@ -3,13 +3,12 @@
 I am Ahmed Mossa from Egypt, and I work as a Back End Developer and Data Analytic.
 I really enjoy learning languages and frameworks like Python | R , as well as work in Data analytic.
 
-
-📄 Know about my experiences https://drive.google.com/file/d/1WXbbjz5TvwBZp2eE839QIb0-artahGb7/view?usp=drive_link
-
 Skills: Python / PostgreSQL 
 
+- 🌱 I’m currently learning Data Science
 - 💬 Ask me about Python | SQL  
-- 📫 How to reach me: eng.amossa@gmail.com 
+- 📫 How to reach me: eng.amossa@gmail.com
+- 📄 Know about my experiences https://drive.google.com/file/d/1WXbbjz5TvwBZp2eE839QIb0-artahGb7/view?usp=drive_link
 - ⚡ Fun fact: I love drawing and play chess 
 
 
