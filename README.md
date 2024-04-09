@@ -1,9 +1,3 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://github.com/ahmedmossa/Ahmed-Mossa/blob/main/IMG_4298.JPG"  />
-
-###
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -40,12 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
